@@ -1,0 +1,19 @@
+name: family_safety_app
+description: A starter skeleton for a consent-first family safety app (Flutter).
+publish_to: "none"
+version: 0.1.0
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.0.11
+  permission_handler: ^10.4.0
+  geolocator: ^9.0.2
+  flutter_sound: ^9.2.13
+  connectivity_plus: ^4.0.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true

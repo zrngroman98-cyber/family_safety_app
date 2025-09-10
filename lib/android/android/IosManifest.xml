@@ -1,0 +1,6 @@
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>We use location to help keep family members safe. You must consent to this.</string>
+<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+<string>We use background location to provide safety tracking. You must consent to this.</string>
+<key>NSMicrophoneUsageDescription</key>
+<string>We use the microphone to record short audio clips with consent for safety events.</string>
